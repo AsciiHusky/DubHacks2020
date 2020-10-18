@@ -5,3 +5,6 @@ and coded into the web builder, he wasn't able to determine and fix the issue si
 the framework.
 We have provided an Expected output and Actual Output Comparism.
 Please let us know what we can do to fix this issue!
+
+To open the website: https://sturgeon-nectarine-c49l.squarespace.com/
+Password: 102030
