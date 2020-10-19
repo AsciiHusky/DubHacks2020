@@ -8,3 +8,5 @@ Please let us know what we can do to fix this issue!
 
 To open the website: https://sturgeon-nectarine-c49l.squarespace.com/
 Password: 102030
+
+For developers: https://sturgeon-nectarine-c49l.squarespace.com/config/
